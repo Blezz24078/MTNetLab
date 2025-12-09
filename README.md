@@ -8,7 +8,7 @@ The "VERIFIED Compatible OS:" Is going to have all of the operating systems that
 The "Best OS Option:" Is for the most compatible OS when none are fully tested or when there IS a compatible OS, the next best option(s)
 
 # GITRECONVIRUS.py [2.0.1]
-VERIFIED Compatible OS: n/a
+VERIFIED Compatible OS: n/a |
 Best OS Option: MacOS
 
 This virus is VERY HARMFUL if misused.
@@ -28,14 +28,14 @@ What this program does:
 - Checks if modules are installed, and tries to install necesary modules if they are not installed
 
 # IP_SCRAPER.py [2.0.0] FUNCTIONAL
-VERIFIED Compatible OS: MacOS
+VERIFIED Compatible OS: MacOS |
 Best OS Option: Windows (UNTESTED), Linux (UNTESTED)
 
 
 This python program is used for scraping IP addresses in a selected range. It will ask for the First and second octets. Ex: (10.1). After, it will let you choose the range for the 3rd octet (xx.x.12.xxx). Ex: 12 - 15. Then, after the scan is complete, it will print out the status of each IP in the selected range. Ex: 10.1.28.188 is live, Hostname: Unknown, RTT: 24.56ms It shows if it's live, attempts to find the hostname, and shows the ping response time.
 
 # MALWAREFORARD.ino [ALPHA]
-VERIFIED Compatible OS: n/a
+VERIFIED Compatible OS: n/a |
 Best OS Option: MacOS
 NOTES: A bit finicky on MacOS when Arduino is plugged in. Not compatible with other operating systems.
 
@@ -45,19 +45,19 @@ Testing and updates for the BadUSB will be released but right now it should work
 Right now, it isn't very destructive. It's really just a framework for destruction. As of right now, it just will rick roll whoever plugs it into their MacBook. For more power, remove the link to that git download and switch it to a different program.
 
 # BadUSBProgrammer.py [ALPHA TESTING]
-VERIFIED Compatible OS: MacOS
+VERIFIED Compatible OS: MacOS |
 Best OS Option: Windows (UNTESTED)
 NOTES: The python raises no errors, but the output program has syntax errors.
 
 This is a python program that's used for writing keypress code for HID Arduino boards. As in the name, it's being made for the BadUSB. This code is NOT complete, but I thought that it would be useful to include. There are some syntax errors in the output (That's the issue).
 
 # Password Generator V.2.py [BETA]
-VERIFIED Compatible OS: MacOS, Windows, Linux
+VERIFIED Compatible OS: MacOS, Windows, Linux |
 Best OS Option: 
 This python program is for generating secure, 8 character+ passwords.
 
 # wiresharkfilefinder.py [ALPHA]
-VERIFIED Compatible OS: MacOS
+VERIFIED Compatible OS: MacOS |
 Best OS Option: Windows (UNTESTED), Linux (UNTESTED)
 
 This python program is used for finding specific hostnames in a .pcapng wireshark file. It's for the mdns set of hostnames.
@@ -69,7 +69,7 @@ How to use:
 This will return all of the instances of the hostname. Each one is the hostname's IP and the target IP. After each search, you can enter the number of the instance and it will give a more detailed report about it.
 
 # linuxonmac.sh [0.1]
-VERIFIED Compatible OS: MacOS
+VERIFIED Compatible OS: MacOS |
 Best OS Option: n/a
 
 *THIS PROGRAM IS ON ITERATION 1. PLEASE DO NOT RELY ON THIS WORKING AS IT MIGHT NOT.*
