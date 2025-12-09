@@ -6,7 +6,7 @@ This set of programs is used for some basic pentesting along with arduino HID co
 
 # GITRECONVIRUS.py [2.0.1]
 This virus is VERY HARMFUL if misused.
-If you run it right after downloading, nothing will happen. This is because it's unarmed. This is to keep the virus from getting accidentally run.
+If you run it right after downloading, nothing will happen. This is because it's unarmed. This is to keep the virus from getting accidentally run. There *are* some comments that should stay, it's fine to remove them.
 THIS IS NOT FULY TESTED, NO GAURANTEED RESULTS.
 
 HOW TO ARM:
