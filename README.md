@@ -119,3 +119,5 @@ PLEASE NOTE: IT IS **ILLEGAL** TO USE WIRESHARK OR ANY OTHER IP SCRAPER TYPE OF 
 Tor is a browser based on anonymity. It's fairly slow, but is virtually untraceable. It is recommended to use a VPN while using Tor. Tor is used by anybody who wants to communicate anonymously, or people who want to open .onion links. Tor's nickname is "The Onion" because of this. Please note that illegal activity does occur on Tor and links could download malware. Make sure that you trust the website before downloading ANYTHING for safety.
 
 To download, go to Torproject.org
+
+# LAST EDITED: DECEMBER 9, 2025
