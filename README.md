@@ -1,5 +1,5 @@
 # PLEASE READ THIS FIRST:
-# DISCLAIMER: THIS PROGRAM IS FOR AUTHORIZED, LEGAL USE ONLY. BY DOWNLOADING THIS FILE, YOU ARE LIABLE FOR ANY DAMAGE CAUSED TO YOURSELF OR OTHERS.
+# DISCLAIMER: THESE PROGRAMS ARE FOR AUTHORIZED, LEGAL USE ONLY. BY DOWNLOADING THESE FILES, YOU ARE LIABLE FOR ANY DAMAGE CAUSED TO YOURSELF OR OTHERS.
 
 # MTNetLab
 This set of programs is used for some basic pentesting along with arduino HID code, and more.
@@ -120,4 +120,4 @@ Tor is a browser based on anonymity. It's fairly slow, but is virtually untracea
 
 To download, go to Torproject.org
 
-# LAST EDITED: DECEMBER 9, 2025
+# LAST EDITED: DECEMBER 19, 2025
